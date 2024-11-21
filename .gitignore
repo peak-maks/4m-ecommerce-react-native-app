@@ -36,7 +36,6 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
-.env*
 .npm*
 
 coverage/
@@ -78,3 +77,4 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+config.bat
